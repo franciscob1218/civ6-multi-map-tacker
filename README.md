@@ -1,2 +1,2 @@
 # civ6-multi-map-tacker
-This Civ 6 mod will let you choose the type of map tack you want to place first then let you place then. This is to elimilate meeding to keep clicking into the map tack menu.
+This Civ 6 mod brings a Photoshop-style toolset to map tacks. Pick a tack type to use as your brush and place as many as you want in succession, or swap to the eraser tool to remove them with the same ease.
